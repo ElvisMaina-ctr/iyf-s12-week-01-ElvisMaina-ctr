@@ -17,8 +17,8 @@
   9. GitHub Pages Deployment: Makes the portfolio publicly accessible online.
  ## Technologies used
   - HTML5
-  -CSS3
-  -Visual Studio Code
-  -Git and GitHub
-  -GitHub Pages
-  -Chrome DevTools and Lighthouse
+  - CSS3
+  - Visual Studio Code
+  - Git and GitHub
+  - GitHub Pages
+  - Chrome DevTools and Lighthouse
