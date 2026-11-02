@@ -30,3 +30,20 @@ The search bar  uses a search input within the search interface that is (<!input
  
 *Question 3*
 
+# Website 3 answers
+My own portfolio website
+Website 3: My Own Portfolio
+
+Website: My portfolio homepage.
+
+Elements observed:
+
+header
+
+nav
+
+main
+
+section
+
+article
